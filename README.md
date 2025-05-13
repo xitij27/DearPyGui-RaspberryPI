@@ -21,7 +21,7 @@ After countless hours of believing in the impossible and going through the issue
 
 #### Relevant Issues
 
-[# Issue 1](https://github.com/hoffstadt/DearPyGui/wiki/Local-Wheel)
+[# Issue 1](https://github.com/hoffstadt/DearPyGui/wiki/Local-Wheel)  
 From here, we learn that `pip install dearpygui` was never meant to work on RPi and we need to use local build wheels.
 
 Even the [official wiki page](https://github.com/hoffstadt/DearPyGui/wiki/Local-Wheel) on generating local build wheels doesn't work smoothly and gives errors.
